@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637608130 source:c:\users\ederson\desktop\códigos senac\nome\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
